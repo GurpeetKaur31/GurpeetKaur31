@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Kaur Jassal</h1>
 <h3 align="center">Currently a learner....</h3>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 📫 How to reach me **+917017660739**
 
