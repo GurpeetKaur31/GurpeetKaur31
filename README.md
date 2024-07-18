@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gurpreet-kaur-jassal-6a3330217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurpreet-kaur-jassal-6a3330217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gurpreet-kaur-jassal-6a3330217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurpreetjassal31" height="30" width="40" /></a>
 </p>
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
